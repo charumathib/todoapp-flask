@@ -1,12 +1,10 @@
-### Simple Flask Todo App
-
-#### Setup
+### todoapp-flask
+#### Run the following commands...
 <hr>
-
-- Create python3 virtual environment and activate it (python3 -m venv venv)
-- Run 'pip install -r requirements.txt' on terminal
-- Run app.py on terminal for start local server
-
+- `git clone https://github.com/charumathib/todoapp-flask.git`
+- `cd todoapp-flask`
+- `python3 -m venv venv`
+- `source venv/bin/activate`
+- `pip install -r requirements.txt`
+- `python3 app.py`
 <hr>
-
-![todo](templates/todo.png)
